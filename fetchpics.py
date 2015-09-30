@@ -1,3 +1,10 @@
+# Author: skynet
+# E-mail: skynet.tw@gmail.com
+# Date: 2015/9
+# Programming Lanuage: Python 2.7
+#
+# Usage: Python fetchpics.py targetURL 
+#
 import requests
 import shutil
 from bs4 import BeautifulSoup
